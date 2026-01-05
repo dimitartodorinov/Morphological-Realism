@@ -1,5 +1,6 @@
-# Morphological Realism: Universal Scaling Law of Intelligence (Cm ≈ 0.1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18149202.svg)](https://doi.org/10.5281/zenodo.18149202)
 
+# Morphological Realism: Universal Scaling Law of Intelligence (Cm ≈ 0.1)
 ## Core Idea
 
 Morphological Realism (MR) proposes a universal law for the emergence of stable intelligent structures across scales – from biological organisms and civilizations to artificial neural networks.
