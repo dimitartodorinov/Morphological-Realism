@@ -40,11 +40,11 @@ These phases appear in biology (development → maturity), cognition (explore �
 
 ---
 
-© 2026 Dimitar Todorov. All rights reserved for this conceptual framework. 
+© 2026 Dimitar Todorinov. All rights reserved for this conceptual framework. 
 Research use is welcome with proper citation.
 
 ## Citation
 
 If you use Morphological Realism in academic work, please cite:
 
-Dimitar Todorov, *Morphological Realism: Thermodynamics of Meaning and the Topology of Double Convergence*, Zenodo (2026). https://doi.org/10.5281/zenodo.18149202
+Dimitar Todorinov, *Morphological Realism: Thermodynamics of Meaning and the Topology of Double Convergence*, Zenodo (2026). https://doi.org/10.5281/zenodo.18149202
