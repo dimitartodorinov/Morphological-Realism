@@ -43,6 +43,16 @@ These phases appear in biology (development → maturity), cognition (explore �
 © 2026 Dimitar Todorinov. All rights reserved for this conceptual framework. 
 Research use is welcome with proper citation.
 
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+### Commercial Licensing
+If you wish to use this work in a proprietary or commercial product without open-sourcing your modifications, please contact **dimitar.t.todorinov@gmail.com** for a commercial license.
+
+For the full license text, see [LICENSE](./LICENSE).
+
+
 ## Citation
 
 If you use Morphological Realism in academic work, please cite:
