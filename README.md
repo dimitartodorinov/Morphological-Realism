@@ -1,4 +1,19 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18149202.svg)](https://doi.org/10.5281/zenodo.18149202)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18158675.svg)](https://doi.org/10.5281/zenodo.18158675)
+
+
+**Version:** v2 | **License:** [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html)
+
+## 📖 Citation
+
+```bibtex
+@preprint{todorinov2026morphological,
+  title={Morphological Realism: Thermodynamics of Meaning and the Topology of Double Convergence},
+  author={Todorinov, Dimitar},
+  year={2026},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.18158675},
+  url={https://zenodo.org/records/18158675}
+}
 
 # Morphological Realism: Universal Scaling Law of Intelligence (Cm ≈ 0.1)
 ## Core Idea
