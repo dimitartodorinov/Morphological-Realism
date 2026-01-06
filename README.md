@@ -169,7 +169,7 @@ Solution: Check that all input parameters are positive (exploration_energy > 0)
 
 Issue: Formula doesn't match my expectations
 
-Contact: Open an issue on GitHub or email dimitart.todorinov@gmail.com
+Contact: Open an issue on GitHub or email dimitar.t.todorinov@gmail.com
 
 ## License
 
