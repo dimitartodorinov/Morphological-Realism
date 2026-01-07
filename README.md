@@ -199,7 +199,7 @@ See LICENSE file for full details.
 ## Contact
 
 **Dimitar Todorinov**
-- Email: dimitart.todorinov@gmail.com
+- Email: dimitar.t.todorinov@gmail.com
 - GitHub: [@dimitartodorinov](https://github.com/dimitartodorinov)
 - Zenodo: [10.5281/zenodo.18174690](https://zenodo.org/records/18174690)
 
