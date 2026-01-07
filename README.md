@@ -1,6 +1,6 @@
 # Morphological Realism
 
-**Latest Publication (v3):** [Zenodo DOI 10.5281/zenodo.18174690](https://zenodo.org/records/18174690)  
+**Latest Publication (v4):** [Zenodo DOI 10.5281/zenodo.18175578](https://zenodo.org/records/18175578)  
 **Status:** Published January 7, 2026 | 25+ views, 30+ downloads
 
 ---
@@ -179,8 +179,8 @@ If you use this work, please cite:
   year={2026},
   month={January},
   publisher={Zenodo},
-  doi={10.5281/zenodo.18174690},
-  url={https://zenodo.org/records/18174690}
+  doi={10.5281/zenodo.18175578},
+  url={https://zenodo.org/records/18175578}
 }
 ```
 
@@ -201,7 +201,7 @@ See LICENSE file for full details.
 **Dimitar Todorinov**
 
 - GitHub: [@dimitartodorinov](https://github.com/dimitartodorinov)
-- Zenodo: [10.5281/zenodo.18174690](https://zenodo.org/records/18174690)
+- Zenodo: [10.5281/zenodo.18175578](https://zenodo.org/records/18175578)
 
 ---
 
