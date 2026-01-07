@@ -38,7 +38,7 @@ Sustainable intelligent systems converge toward **Cm ≈ 0.10 ± 0.02** across a
 
 1. **E. coli bacterium** (10⁻¹² J, Cm = 0.06): Kinetic dominance—minimal structural complexity
 2. **African elephant** (10² J, Cm = 0.095): Homeostatic optimum—Kleiber's Law validated
-3. **Roman Empire, 117 CE** (10¹⁴ J, Cm = 0.105): Structural intensification—dense infrastructural networks
+3. **Roman Empire, 117 CE** (10¹⁴ J, Cm = 0.125): Structural intensification—dense infrastructural networks
 4. **Google/Alphabet** (10¹⁹ J, Cm = 0.13): Critical saturation—approaching thermodynamic limits (Λ)
 
 The optimal stability zone (gray band, **0.08 < Cm < 0.12**) represents sustainable regimes where systems achieve maximum structural return per energetic investment.
