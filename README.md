@@ -205,12 +205,4 @@ See LICENSE file for full details.
 
 ---
 
-## Acknowledgments
-
-- Prof. Martin Vechev (ETH Zürich) for conceptual discussions
-- Zenodo/CERN for open-access infrastructure
-- OpenAIRE for research indexing
-
----
-
 **Last updated:** January 7, 2026 | **Version:** 3.0
