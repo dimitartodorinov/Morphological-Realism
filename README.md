@@ -51,7 +51,7 @@ The optimal stability zone (gray band, **0.08 < Cm < 0.12**) represents sustaina
 |--------|----------|-----------------|---------|
 | **Kinetic Dominance** | Cm < 0.08 | High energy, minimal structure, inefficient | *E. coli* (0.06) |
 | **Homeostatic Equilibrium** | 0.08 ≤ Cm ≤ 0.12 | Energy-structure balance, sustainable | Elephant (0.095) |
-| **Structural Intensification** | 0.12 < Cm < 0.15 | Dense information, approaching limits | Rome 117 CE (0.105) |
+| **Structural Intensification | 0.12 < Cm < 0.15 | Dense information, near limits | Rome 117 CE (0.125) |
 | **Critical Saturation** | Cm > 0.15 | Diminishing returns, risk of phase transition | Google (0.13) |
 
 ---
