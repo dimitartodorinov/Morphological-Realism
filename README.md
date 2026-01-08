@@ -1,6 +1,6 @@
 # Morphological Realism
 
-**Latest Publication (v4):** [Zenodo DOI 10.5281/zenodo.18175578](https://zenodo.org/records/18175578)  
+**Latest Publication (v5):** [Zenodo DOI 10.5281/zenodo.18188585](https://zenodo.org/records/18188585)  
 
 ---
 
@@ -178,7 +178,7 @@ If you use this work, please cite:
   year={2026},
   month={January},
   publisher={Zenodo},
-  doi={10.5281/zenodo.18175578},
+  doi={10.5281/zenodo.18188585},
   url={https://zenodo.org/records/18175578}
 }
 ```
